@@ -1,0 +1,28 @@
+# Self
+
+> Self é um framework de autoconhecimento que conecta suas ações diárias ao que realmente te move. Cria uma cadeia de rastreabilidade: Intenção → Missão → Meta → Projeto → Ação de hoje.
+
+Self é uma ferramenta para uso com LLMs. Não é código executável — são prompts em Markdown que transformam qualquer IA generativa em um coach de propósito e produtividade.
+
+Notas importantes:
+- O arquivo `seed.md` é usado uma vez para criar seu perfil Self (~10 minutos)
+- O arquivo `daily.md` é seu guardião diário — cole junto com seu `self.md` gerado
+- Os arquivos em `inspirations/` ajudam quem não sabe por onde começar
+- Os arquivos em `samples/` mostram exemplos completos de Selfs já preenchidos
+
+## Prompts
+
+- [seed.md](https://github.com/ciro-maciel/self/blob/main/prompts/seed.md): Prompt de criação do Self — guia uma conversa de ~10 minutos para articular valores, intenção, missões, metas e projetos
+- [daily.md](https://github.com/ciro-maciel/self/blob/main/prompts/daily.md): Guardião diário — 3 modos: Morning Check-in (prioriza tarefas), Evening Log (registra o dia), Reconexão (quando está perdido)
+
+## Samples
+
+- [personal.md](https://github.com/ciro-maciel/self/blob/main/samples/personal.md): Exemplo de Self para uso pessoal
+- [business.md](https://github.com/ciro-maciel/self/blob/main/samples/business.md): Exemplo de Self para contexto empresarial/profissional
+
+## Optional
+
+- [problems.md](https://github.com/ciro-maciel/self/blob/main/inspirations/problems.md): Catálogo de problemas do mundo para inspirar sua intenção
+- [curiosity.md](https://github.com/ciro-maciel/self/blob/main/inspirations/curiosity.md): Catálogo de curiosidades e áreas de fascínio
+- [identity.md](https://github.com/ciro-maciel/self/blob/main/inspirations/identity.md): Catálogo de identidades e tipos de pessoa que você pode querer se tornar
+- [experience.md](https://github.com/ciro-maciel/self/blob/main/inspirations/experience.md): Catálogo de experiências e vivências desejadas
